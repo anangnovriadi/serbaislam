@@ -1,4 +1,12 @@
+body {
+    background-color: #f8f9fa !important;
+}
+
 .container-custom {
     padding-left: 45px;
     padding-right: 45px;
+}
+
+.nav-white {
+    background-color: #ffff !important;
 }
